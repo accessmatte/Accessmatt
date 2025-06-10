@@ -33,6 +33,9 @@ function Service(){
 function cart(){
     window.location.href = "Cart.html"
 }
+function user(){
+    window.location.href = "Cart.html"
+}
 function inst(){
     window.location.href = "https://www.instagram.com/accessmat?igsh=YzljYTk1ODg3Zg=="
 }
