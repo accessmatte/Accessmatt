@@ -22,7 +22,7 @@ div.scrollmenu a {
   text-align: center;
   padding: 14px;
   text-decoration: none;
-  width: 50%;
+  width: 40%;
 }
  body {
   font-family: 'Lato', sans-serif;
@@ -197,7 +197,7 @@ img {vertical-align: middle;}
       background: #0076ff;
     } */
     header {
-      position: fixed;
+      position: absolute;
       text-decoration:;
       color: #3a1cb2;
       height:auto;
