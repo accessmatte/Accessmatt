@@ -1,0 +1,1550 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="text-2.css" />
+<script src="text.js"></script>
+</head>
+<body>
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+     <a onclick="categories()">categories</a>
+    <a onclick="Service()">Services</a>
+    <a onclick="sitemap()">sitemap</a>
+    <a onclick="contact()">Contact</a>
+        <br>
+  &nbsp;<i onclick="wa()" style="font-size:50px; background-color:#2be784; text-align:center;width:50px;color:white;" class="fa">&#xf232;</i>&nbsp;<i onclick="fb()" style="text-align:center;font-size:50px; width:50px;background-color:#468de7; color:white;" class="fa">&#xf09a;</i><br/><br/>&nbsp;<i onclick="yt()"style="font-size:50px; text-align:center;width:50px;background-color:white; color:red;" class="fa">&#xf16a;</i> &nbsp;<i onclick="inst()" style="font-size:50px; text-align:center;background-color:white; width:50px;color:#f8296c65;" class="fa">&#xf16d;</i>
+  </div>
+</div>
+<header>
+<img style="width:100%; height:50px;" src="https://loveantech.wordpress.com/wp-content/uploads/2025/04/photo-output.jpg">
+<div class="nav-bar">
+    <ul>
+      <li><a onclick="openNav()">&#9776;</a></li>
+      <li><a onclick="home()"><i class="fa fa-home"></i></a></li>
+      <li><a onclick="user()"><i class="fa fa-user"></i></a></li>
+      <li><a onclick="cart()"><i class="fa fa-shopping-cart"></i></a></li>
+    </ul>
+  </div></header><br><br><br><br><br>
+<div class="container">
+<input id="searchbar" style="width:90%; background-color:white;" onkeyup="search_animal()" type="text" name="search"  placeholder="Search product.."></div>
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+ <img style="height: 200px; width:100%;" src="https://lovean.tech.blog/wp-content/uploads/2024/12/img_20241104_095349_2257041401327694949268.jpg"/>
+</div>
+
+<div class="mySlides fade">
+  <img style="height: 200px; width:100%;" src="https://lovean.tech.blog/wp-content/uploads/2024/08/img-20240720-wa00904540311976232852386.jpg"/>
+</div>
+
+<div class="mySlides fade">
+ <img style="height: 200px; width:100%;" src="https://lovean.tech.blog/wp-content/uploads/2024/08/img-20240720-wa00486471728587808323180.jpg"/>
+</div>
+<div class="mySlides fade">
+  <img style="height: 200px; width:100%;" src="https://lovean.tech.blog/wp-content/uploads/2024/08/img-20240720-wa00091336624895116858901.jpg"/>
+  </div>
+  <div class="mySlides fade">
+  <img style="height: 200px; width:100%;" src="https://lovean.tech.blog/wp-content/uploads/2024/10/img-20241010-wa0095492452898877043173.jpg"/>
+  </div>
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+   <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>
+</div>
+<h1 style="text-align:center;">chargers& adapters</h1>
+<div class="scrollmenu">
+<a id="chargerme1"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2023/11/img20230829140305.jpg">
+<h2 id="chargeraa">oraimo micro usb</h2>
+<p id="charger">12w with normal<br> usb cables</p>
+<p id="chargerad"></p>
+<p id="chargerab">600/=</p>
+<p>qty:<b id="chargerquantity1" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargera"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme2"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2023/11/img20230829140305.jpg">
+<h2 id="chargerba">oraimo type c</h2>
+<p id="charger">10w charger<br> with type c cable</p>
+<p id="chargerbd"></p>
+<p id="chargerbb">600/=</p>
+<p>qty:<b id="chargerquantity2" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerb"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme3"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/07/wp-17201200329024700180433053268792.jpg">
+<h2 id="chargerca">oraimo micro usb</h2>
+<p id="charger">10w with normal <br>cable</p>
+<p id="chargercd"></p>
+<p id="chargercb">500/=</p>
+<p>qty:<b id="chargerquantity3" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerc"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme4"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/10/577216288443073826479428906475878.jpeg">
+<h2 id="chargerda">oraimo micro usb</h2>
+<p id="charger">5w with<br> normal cable</p>
+<p id="chargerdd"></p>
+<p id="chargerdb">350/=</p>
+<p>qty:<b id="chargerquantity4" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerd"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme5"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2025/07/17515537915342575690050488779113.jpg">
+<h2 id="chargerea">oraimo type c</h2>
+<p id="charger">18w with <br>type c cable</p>
+<p id="chargered"></p>
+<p id="chargereb">800/=</p>
+<p>qty:<b id="chargerquantity5" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargere"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme6"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerfa">oraimo iphone<br> charger</h2>
+<p id="charger">18w with<br> lightining cable</p>
+<p id="chargerfd"></p>
+<p id="chargerfb">1200/=</p>
+<p>qty:<b id="chargerquantity6" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerf"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme7"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerga">oraimo iphone<br> charger</h2>
+<p id="charger">10w with<br> lightining cable</p>
+<p id="chargergd"></p>
+<p id="chargergb">750/=</p>
+<p>qty:<b id="chargerquantity7" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerg"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme8"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2023/12/wp-17015100676904730824779444631946.jpg">
+<h2 id="chargerha">amaya adapter</h2>
+<p id="charger">10w no cable</p>
+<p id="chargerhd"></p>
+<p id="chargerhb">300/=</p> 
+<p>qty:<b id="chargerquantity8" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerh"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme9"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargeria">amaya type c</h2>
+<p id="charger">10w with <br>type c cable</p>
+<p id="chargerid"></p>
+<p id="chargerib">400/=</p> 
+<p>qty:<b id="chargerquantity9" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargeri"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme10"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/08/img-20240703-wa00084290454050775923457.jpg">
+<h2 id="chargerja">amaya micro usb</h2>
+<p id="charger">ADO36 with <br>normal cable</p>
+<p id="chargerjd"></p>
+<p id="chargerjb">350/=</p>
+<p>qty:<b id="chargerquantity10" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerj"><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="chargerme11"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/07/wp-17201200289415653131558619406744.jpg">
+<h2 id="chargerka">amaya micro usb</h2>
+<p id="charger">ADO32 with<br> normal cable</p>
+<p id="chargerkd"></p>
+<p id="chargerkb">300/=</p>
+<p>qty:<b id="chargerquantity11" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerk"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme12"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerla">aldeepo micro usb</h2>
+<p id="charger">10w iwtg micro<br> usb cable</p>
+<p id="chargerld"></p>
+<p id="chargerlb">350/=</p>
+<p>qty:<b id="chargerquantity12" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerl"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme13"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerma">aldeepo type c</h2>
+<p id="charger">10w with<br> type c cable</p>
+<p id="chargermd"></p>
+<p id="chargermb">400/=</p> 
+<p>qty:<b id="chargerquantity13" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerm"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme14"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerna">aldeepo type c</h2>
+<p id="charger">30w with<br> type c cable</p>
+<p id="chargernd"></p>
+<p id="chargernb">600/=</p>
+<p>qty:<b id="chargerquantity14" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargern"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme15"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargeroa">aldeepo usb c </h2>
+<p id="charger">28w with<br> c to c cable</p>
+<p id="chargerod"></p>
+<p id="chargerob">750/=</p>
+<p>qty:<b id="chargerquantity15" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargero"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme16"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerpa">aldeepo adapter</h2>
+<p id="charger">30w without cable</p>
+<p id="chargerpd"></p>
+<p id="chargerpb">650/=</p>
+<p>qty:<b id="chargerquantity16" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerp"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme17"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerqa">floating ark<br> micro usb</h2>
+<p id="charger">12w with normal<br>usb cable</p>
+<p id="chargerqd"></p>
+<p id="chargerqb">450/=</p>
+<p>qty:<b id="chargerquantity17" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerq"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme18"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerra">floating ark <br>mico usb</h2>
+<p id="charger">12w with type c<br>cable</p>
+<p id="chargerrd"></p>
+<p id="chargerrb">500/=</p>
+<p>qty:<b id="chargerquantity18" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerr"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme19"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/08/img-20240720-wa00461859471620100007696.jpg">
+<h2 id="chargersa">floatng ark <br>miro usb cable</h2>
+<p id="charger">12w with dual<br> cable</p>
+<p id="chargersd"></p>
+<p id="chargersb">600/=</p>
+<p>qty:<b id="chargerquantity19" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargers"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme20"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/08/img-20240720-wa00027270024566067276470.jpg">
+<h2 id="chargerta">floating ark<br>wall charger</h2>
+<p id="charger">20w with c to c<br>cable</p>
+<p id="chargertd"></p>
+<p id="chargertb">900/=</p> 
+<p>qty:<b id="chargerquantity20" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargert"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme21"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/03/img_20240327_201311_1775452465999478040464.jpg">
+<h2 id="chargerua">floating ark<br>wall charger</h2>
+<p id="charger">45w with c to c<br>cable</p>
+<p id="chargerud"></p>
+<p id="chargerub">1500/=</p>
+<p>qty:<b id="chargerquantity21" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargeru"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme22"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/03/img_20240327_201401_1755545747282670532426.jpg">
+<h2 id="chargerva">floating ark<br> micro usb</h2>
+<p id="charger">5w with normal cable</p>
+<p id="chargervd"></p>
+<p id="chargervb">300/=</p>
+<p>qty:<b id="chargerquantity22" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerv"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme23"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerwa">itel micro usb</h2>
+<br><p id="chargerwd">5w with normal<br>cable</p>
+<p id="chargerwb">350/=</p>
+<p>qty:<b id="chargerquantity23" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerw"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme24"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerxa">itel micro usb</h2>
+<p id="charger">10w with normal<br>cable</p>
+<p id="chargerxd"></p>
+<p id="chargerxb">450/=</p> 
+<p>qty:<b id="chargerquantity24" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerx"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme25"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerya">itel micro usb</h2>
+<p id="charger">12w with type c<br>cable</p>
+<p id="chargeryd"></p>
+<p id="chargeryb">600/=</p>
+<p>qty:<b id="chargerquantity25" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargery"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme26"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerza">enfinix micro usv</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargerzd"></p>
+<p id="chargerzb">300/=</p>
+<p>qty:<b id="chargerquantity26" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerz"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme27"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerae">amazon micro usb</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargerah"></p>
+<p id="chargeraf">300/=</p>
+<p>qty:<b id="chargerquantity27" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargera1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme28"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerbe">oraimo micro usb</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargerbh"></p>
+<p id="chargerbf">300/=</p>
+<p>qty:<b id="chargerquantity28" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerb1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme29"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/07/wp-17201200110598378674032323843041.jpg">
+<h2 id="chargerce">samsung 6A(big)</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargerch"></p>
+<p id="chargercf">300/=</p>
+<p>qty:<b id="chargerquantity29" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerc1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme30"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerde">samsung 6A(small)</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargerdh"></p>
+<p id="chargerdf">300/=</p> 
+<p>qty:<b id="chargerquantity30" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerd1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme31"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargeree">amazon adapter</h2>
+<p id="charger">5w with no cable</p>
+<p id="chargereh"></p>
+<p id="chargeref">250/=</p>
+<p>qty:<b id="chargerquantity31" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargere1"><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="chargerme32"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerfe">sansung 2A</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargerfh"></p>
+<p id="chargerff">300/=</p>
+<p>qty:<b id="chargerquantity32" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerf1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme33"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerge">tecno micro usb</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargergh"></p>
+<p id="chargergf">300/=</p>
+<p>qty:<b id="chargerquantity33" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerg1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme34"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerhe">samsung adapter</h2>
+<p id="charger">10w without cable</p>
+<p id="chargerhh"></p>
+<p id="chargerhf">250/=</p>
+<p>qty:<b id="chargerquantity34" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerh1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme35"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerie">2 pugs small charger</h2>
+<p id="charger">5w with attached cable</p>
+<p id="chargerih"></p>
+<p id="chargerif">200/=</p>
+<p>qty:<b id="chargerquantity35" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargeri1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme36"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerje">2 pugs small charger</h2>
+<p id="charger">5w with attached cable</p>
+<p id="chargerjh"></p>
+<p id="chargerjf">200/=</p> 
+<p>qty:<b id="chargerquantity36" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerj1"><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="chargerme37"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerke">2 plug 8600</h2>
+<p id="charger">5w with attached cable</p>
+<p id="chargerkh"></p>
+<p id="chargerkf">150/=</p>
+<p>qty:<b id="chargerquantity37" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerk1"><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="chargerme38"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerle">oraimo car charger</h2>
+<p id="charger">10w with normal<br>cable</p>
+<p id="chargerlh"></p>
+<p id="chargerlf">600/=</p>
+<p>qty:<b id="chargerquantity38" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerl1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme39"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerme">oraimo car charger</h2>
+<p id="charger">15w without cable</p>
+<p id="chargermh"></p>
+<p id="chargermf">500/=</p> 
+<p>qty:<b id="chargerquantity39" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerm1"><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="chargerme40"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerne">car charger</h2>
+<p id="charger">5w smal micro usb</p>
+<p id="chargernh"></p>
+<p id="chargernf">200/=</p>
+<p>qty:<b id="chargerquantity40" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargern1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme41"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargeroe">A901 car charger</h2>
+<p id="charger">10wdual micro usb</p>
+<p id="chargeroh"></p>
+<p id="chargerof">350/=</p> 
+<p>qty:<b id="chargerquantity41" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargero1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme42"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/10/img-20241010-wa00899102477338133192915.jpg">
+<h2 id="chargerpe">car fm modullator</h2>
+<p id="charger">10w dual usb</p>
+<p id="chargerph"></p>
+<p id="chargerpf">650/=</p>
+<p>qty:<b id="chargerquantity42" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerp1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme43"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerqe">X8fm car modullator</h2>
+<p id="charger">10w dual usb</p>
+<p id="chargerqh"></p>
+<p id="chargerqf">650/=</p> 
+<p>qty:<b id="chargerquantity43" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerq1"><h2>add to cart<p></p></h2></button>
+</a> 
+<a id="chargerme44"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerre">yuu car charger</h2>
+<p id="charger">15w dual usb<br>without cable</p>
+<p id="chargerrh"></p>
+<p id="chargerrf">400/=</p> 
+<p>qty:<b id="chargerquantity44" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerr1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme45"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerse">flame micro usb</h2>
+<p id="charger">18w with normal<br>cavle</p>
+<p id="chargersh"></p>
+<p id="chargersf">600/=</p>
+<p>qty:<b id="chargerquantity45" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargers1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme46"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/05/wp-17148208507021285046836635898125.jpg">
+<h2 id="chargerte">Amazon 2A</h2>
+<p id="charger">5w with normal<br>cable</p>
+<p id="chargerth"></p>
+<p id="chargertf">300/=</p>
+<p>qty:<b id="chargerquantity46" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargert1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme47"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/12/img-20241215-wa00098655881036963328788.jpg">
+<h2 id="chargerue">exellent X4 micro</h2>
+<p id="charger">12w with normal<br>cable</p>
+<p id="chargeruh"></p>
+<p id="chargeruf">700/=</p> 
+<p>qty:<b id="chargerquantity47" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargeru1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme48"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerve">iphone charger</h2>
+<p id="charger">20w with c to iphone<br>cable</p>
+<p id="chargervh"></p>
+<p id="chargervf">1500/=</p>
+<p>qty:<b id="chargerquantity48" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerv1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme49"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerwe">iphone charger</h2>
+<p id="charger">25w with c to iphone<br>cable</p>
+<p id="chargerwh"></p>
+<p id="chargerwf">2000/=</p>
+<p>qty:<b id="chargerquantity49" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerw1"><h2>add to cart<p></p></h2></button>
+</a>
+<a id="chargerme50"><img style="height: 200px; width:100%;" src="">
+<h2 id="chargerxe">universal charger</h2>
+<p id="charger">5w combpatible with <br>external batteries</p>
+<p id="chargerxh"></p>
+<p id="chargerxf">200/=</p> 
+<p>qty:<b id="chargerquantity50" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="chargerx1"><h2>add to cart<p></p></h2></button>
+</a>
+</div>
+<h1 style="text-align:center;">cables & otg</h1>
+<div class="scrollmenu">
+<a id="me1"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/10/img-20241010-wa00277876472096229860167.jpg">
+<h2 id="aa">Oraimo cable</h2>
+<p id="">2.1A 3 in 1 multi<br>Cable</p>
+<p id="ad"></p>
+<p id="ab">550/=</p>
+<p>qty:<b id="quantity1" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="a"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me2"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2023/10/img20230829141040.jpg">
+<h2 id="ba">Oraimo cable</h2>
+<p id="">2.1 Micro USB<br>Cable</p>
+<p id="bd"></p>
+<p id="bb">250/=</p>
+<p>qty:<b id="quantity2" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="b"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me3"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/10/img-20241010-wa00843959394496559205084.jpg">
+<h2 id="ca">Oraimo cable</h2>
+<p id="">3A type c cable</p>
+<p id="cd"></p>
+<p id="cb">300/=</p>
+<p>qty:<b id="quantity3" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="c"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me4"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/08/img-20240720-wa00295335729803998894377.jpg">
+<h2 id="da">Oraimo cable</h2>
+<p id="">3A IPhone cable</p>
+<p id="dd"></p>
+<p id="db">350/=</p>
+<p>qty:<b id="quantity4" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="d"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me5"><img style="height: 200px; width:100%;" src="">
+<h2 id="ea">Oraimo cable</h2>
+<p id="">5A c to c cables</p>
+<p id="ed"></p>
+<p id="eb">400/=</p>
+<p>qty:<b id="quantity5" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="e"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me6"><img style="height: 200px; width:100%;" src="">
+<h2 id="fa">Oraimo cable</h2>
+<p id="">3A Micro USB<br>normal</p>
+<p id="fd"></p>
+<p id="fb">300/=</p>
+<p>qty:<b id="quantity6" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="f"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me7"><img style="height: 200px; width:100%;" src="">
+<h2 id="ga">Amaya cable</h2>
+<p id="">2.1A Micro USB<br>normal</p>
+<p id="gd"></p>
+<p id="gb">200/=</p>
+<p>qty:<b id="quantity7" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="g"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me8"><img style="height: 200px; width:100%;" src="">
+<h2 id="ha">Amaya cable</h2>
+<p id="">3A type c cable</p>
+<p id="hd"></p>
+<p id="hb">200/=</p> 
+<p>qty:<b id="quantity8" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="h"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me9"><img style="height: 200px; width:100%;" src="https://loveantech.wordpress.com/wp-content/uploads/2024/12/img-20241215-wa00217486784721087135875.jpg">
+<h2 id="ia">Aldeepo cable</h2>
+<p id="">2A Micro USB<br>Normal</p>
+<p id="id"></p>
+<p id="ib">200/=</p> 
+<p>qty:<b id="quantity9" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="i"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me10"><img style="height: 200px; width:100%;" src="">
+<h2 id="ja">Aldeepo cable</h2>
+<p id="">3A type c cable</p>
+<p id="jd"></p>
+<p id="jb">200/=</p>
+<p>qty:<b id="quantity10" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="j"<><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="me11"><img style="height: 200px; width:100%;" src="">
+<h2 id="ka">Aldeepo cable</h2>
+<p id="">5A c to c cable</p>
+<p id="kd"></p>
+<p id="kb">300/=</p>
+<p>qty:<b id="quantity11" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="k"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me12"><img style="height: 200px; width:100%;" src="">
+<h2 id="la">Floating ark cable</h2>
+<p id="">2A Micro USB<br>Normal</p>
+<p id="ld"></p>
+<p id="lb">300/=</p>
+<p>qty:<b id="quantity12" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="l"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me13"><img style="height: 200px; width:100%;" src="">
+<h2 id="ma">Floating ark cable</h2>
+<p id="">3A type c cable</p>
+<p id="md"></p>
+<p id="mb">250/=</p> 
+<p>qty:<b id="quantity13" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="m"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me14"><img style="height: 200px; width:100%;" src="">
+<h2 id="na">Floating ark cable</h2>
+<p id="">3A type c boxed</p>
+<p id="nd"></p>
+<p id="nb">300/=</p>
+<p>qty:<b id="quantity14" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="n"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me15"><img style="height: 200px; width:100%;" src="">
+<h2 id="oa">Floating ark cable</h2>
+<p id="">3A IPhone cable</p>
+<p id="od"></p>
+<p id="ob">300/=</p>
+<p>qty:<b id="quantity15" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="o"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me16"><img style="height: 200px; width:100%;" src="">
+<h2 id="pa">Floating ark cable</h2>
+<p id="">3A c to c cable</p>
+<p id="pd"></p>
+<p id="pb">300/=</p>
+<p>qty:<b id="quantity16" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="p"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me17"><img style="height: 200px; width:100%;" src="">
+<h2 id="qa">Itel cable</h2>
+<p id="">2.1A Micro USB<br>Normal</p>
+<p id="qd"></p>
+<p id="qb">200/=</p>
+<p>qty:<b id="quantity17" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="q"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me18"><img style="height: 200px; width:100%;" src="">
+<h2 id="ra">Itel cable</h2>
+<p id="">3A type c cable</p>
+<p id="rd"></p>
+<p id="rb">250/=</p>
+<p>qty:<b id="quantity18" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="r"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me19"><img style="height: 200px; width:100%;" src="">
+<h2 id="sa">Punex cable</h2>
+<p id="">2.1A Micro USB<br>&nbsp;Normal</p>
+<p id="sd"></p>
+<p id="sb">200/=</p>
+<p>qty:<b id="quantity19" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="s"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me20"><img style="height: 200px; width:100%;" src="">
+<h2 id="ta">Punex cable</h2>
+<p id="">2.1A type c cable</p>
+<p id="td"></p>
+<p id="tb">250/=</p> 
+<p>qty:<b id="quantity20" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="t"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me21"><img style="height: 200px; width:100%;" src="">
+<h2 id="ua">Punex cable</h2>
+<p id="">3A IPhone cable</p>
+<p id="ud"></p>
+<p id="ub">300/=</p>
+<p>qty:<b id="quantity21" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="u"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me22"><img style="height: 200px; width:100%;" src="">
+<h2 id="va">Samsung cable</h2>
+<p id="">1A normal cable<br>(Slow)</p>
+<p id="vd"></p>
+<p id="vb">150/=</p>
+<p>qty:<b id="quantity22" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="v"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me23"><img style="height: 200px; width:100%;" src="">
+<h2 id="wa">Amaya cable</h2>
+<p id="">1A normal cable<br>(Slow)</p>
+<p id="wd"></p>
+<p id="wb">150/=</p>
+<p>qty:<b id="quantity23" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="w"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me24"><img style="height: 200px; width:100%;" src="">
+<h2 id="xa">Oraimo cable</h2>
+<p id="">1A normal cable<br>(Slow)</p>
+<p id="xd"></p>
+<p id="xb">150/=</p> 
+<p>qty:<b id="quantity24" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="x"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me25"><img style="height: 200px; width:100%;" src="">
+<h2 id="ya">Miloo cable</h2>
+<p id="">1A normal cable<br>(Slow)</p>
+<p id="yd"></p>
+<p id="yb">150/=</p>
+<p>qty:<b id="quantity25" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="y"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me26"><img style="height: 200px; width:100%;" src="">
+<h2 id="za">Villaon cable</h2>
+<p id="">2A Micro USB cable<br>Normal</p>
+<p id="zd"></p>
+<p id="zb">200/=</p>
+<p>qty:<b id="quantity26" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="z"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me27"><img style="height: 200px; width:100%;" src="">
+<h2 id="ae">A947 cable</h2>
+<p id="">2A Micro USB cable<br>Normal</p>
+<p id="ah"></p>
+<p id="af">200/=</p>
+<p>qty:<b id="quantity27" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="a1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me28"><img style="height: 200px; width:100%;" src="">
+<h2 id="be">5A realme</h2>
+<p id="">2A Micro USB cable<br>Normal</p>
+<p id="bh"></p>
+<p id="bf">200/=</p>
+<p>qty:<b id="quantity28" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="b1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me29"><img style="height: 200px; width:100%;" src="">
+<h2 id="ce">5A Samsung</h2>
+<p id="">2A Micro USB cable<br>normal</p>
+<p id="ch"></p>
+<p id="cf">200/=</p>
+<p>qty:<b id="quantity29" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="c1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me30"><img style="height: 200px; width:100%;" src="">
+<h2 id="de">5A vivo</h2>
+<p id="">2A Micro USB cable<br>normal</p>
+<p id="dh"></p>
+<p id="df">200/=</p> 
+<p>qty:<b id="quantity30" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="d1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me31"><img style="height: 200px; width:100%;" src="">
+<h2 id="ee">5A oppo</h2>
+<p id="">2A Micro USB cable<br>normal</p>
+<p id="eh"></p>
+<p id="ef">200/=</p>
+<p>qty:<b id="quantity31" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="e1"<><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="me32"><img style="height: 200px; width:100%;" src="">
+<h2 id="fe">5A Huawei</h2>
+<p id="">USB type c</p>
+<p id="fh"></p>
+<p id="ff">200/=</p>
+<p>qty:<b id="quantity32" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="f1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me33"><img style="height: 200px; width:100%;" src="">
+<h2 id="ge">5A IPhone</h2>
+<p id="">USB lighting cable</p>
+<p id="gh"></p>
+<p id="gf">250/=</p>
+<p>qty:<b id="quantity33" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="g1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me34"><img style="height: 200px; width:100%;" src="">
+<h2 id="he">5A type c</h2>
+<p id="">USB type c cable</p>
+<p id="hh"></p>
+<p id="hf">200/=</p>
+<p>qty:<b id="quantity34" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="h1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me35"><img style="height: 200px; width:100%;" src="">
+<h2 id="ie">Oraimo boxed cable</h2>
+<p id="">2A Micro USB cable<br>Normal</p>
+<p id="ih"></p>
+<p id="if">200/=</p>
+<p>qty:<b id="quantity35" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="i1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me36"><img style="height: 200px; width:100%;" src="">
+<h2 id="je">Access cable</h2>
+<p id="">(new) Micro USB<br>Normal</p>
+<p id="jh"></p>
+<p id="jf">300/=</p> 
+<p>qty:<b id="quantity36" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="j1"<><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="me37"><img style="height: 200px; width:100%;" src="">
+<h2 id="ke">Access cable</h2>
+<p id="">(new) Micro USB<br>&nbsp;type c</p>
+<p id="kh"></p>
+<p id="kf">350/=</p>
+<p>qty:<b id="quantity37" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="k1"<><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="me38"><img style="height: 200px; width:100%;" src="">
+<h2 id="le">OTG cable</h2>
+<p id="">Micro USB data<br>Normal</p>
+<p id="lh"></p>
+<p id="lf">150/=</p>
+<p>qty:<b id="quantity38" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="l1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me39"><img style="height: 200px; width:100%;" src="">
+<h2 id="me">OTG cable</h2>
+<p id="">Micro USB data<br>Type c &amp; normal</p>
+<p id="mh"></p>
+<p id="mf">200/=</p> 
+<p>qty:<b id="quantity39" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="m1"<><h2>add to cart<p></p></h2></button>
+</a>
+ <a id="me40"><img style="height: 200px; width:100%;" src="">
+<h2 id="ne">OTG connector</h2>
+<p id="">Micro USB data<br>Normal</p>
+<p id="nh"></p>
+<p id="nf">100/=</p>
+<p>qty:<b id="quantity40" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="n1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me41"><img style="height: 200px; width:100%;" src="">
+<h2 id="oe">OTG connector</h2>
+<p id="">Micro USB data<br>Type c</p>
+<p id="oh"></p>
+<p id="of">100/=</p> 
+<p>qty:<b id="quantity41" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="o1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me42"><img style="height: 200px; width:100%;" src="">
+<h2 id="pe">OTG cable</h2>
+<p id="">Micro USB data<br>type c</p>
+<p id="ph"></p>
+<p id="pf">150/=</p>
+<p>qty:<b id="quantity42" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="p1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me43"><img style="height: 200px; width:100%;" src="">
+<h2 id="qe">Amaya 4in1</h2>
+<p id="">Multi purpose 3A<br>Cable</p>
+<p id="qh"></p>
+<p id="qf">500/=</p> 
+<p>qty:<b id="quantity43" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="q1"<><h2>add to cart<p></p></h2></button>
+</a> 
+<a id="me44"><img style="height: 200px; width:100%;" src="">
+<h2 id="re">C to IPhone</h2>
+<p id="">3A lightning to c</p>
+<p id="rh"></p>
+<p id="rf">400/=</p> 
+<p>qty:<b id="quantity44" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="r1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me45"><img style="height: 200px; width:100%;" src="">
+<h2 id="se">IPhone cable</h2>
+<p id="">Micro USB to<br>Lightning</p>
+<p id="sh"></p>
+<p id="sf">350/=</p>
+<p>qty:<b id="quantity45" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="s1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me46"><img style="height: 200px; width:100%;" src="">
+<h2 id="te">Amaya 6A</h2>
+<p id="">Micro USB<br>Normal</p>
+<p id="th"></p>
+<p id="tf">200/=</p>
+<p>qty:<b id="quantity46" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="t1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me47"><img style="height: 200px; width:100%;" src="">
+<h2 id="ue">samsung c to c</h2>
+<p id="">3A type c to c</p>
+<p id="uh"></p>
+<p id="uf">350/=</p> 
+<p>qty:<b id="quantity47" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="u1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me48"><img style="height: 200px; width:100%;" src="">
+<h2 id="ve">samsung s7</h2>
+<p id="">micro USB Normal</p>
+<p id="vh"></p>
+<p id="vf">500/=</p>
+<p>qty:<b id="quantity48" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="v1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me49"><img style="height: 200px; width:100%;" src="">
+<h2 id="we"></h2>
+<p id=""></p>
+<p id="wh"></p>
+<p id="wf">/=</p>
+<p>qty:<b id="quantity49" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="w1"<><h2>add to cart<p></p></h2></button>
+</a>
+<a id="me50"><img style="height: 200px; width:100%;" src="">
+<h2 id="xe"></h2>
+<p id=""></p>
+<p id="xh"></p>
+<p id="xf">/=</p> 
+<p>qty:<b id="quantity50" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="x1"<><h2>add to cart<p></p></h2></button>
+</a>
+</div>
+<h1 style="text-align:center;">earpods & wireless</h1>
+<div class="scrollmenu">
+<a id="podsme1"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsaa">Oraimo space buds</h2>
+<p id="pods">O8w630 noise<br>cancelling</p>
+<p id="podsad"></p>
+<p id="podsab">3800/=</p>
+<p>qty:<b id="podsquantity1" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsa"><h2>add to cart</h2></button>
+</a>
+<a id="podsme2"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsba">Oraimo freepods neo</h2>
+<p id="pods">OTw330s extra bass</p>
+<p id="podsbd"></p>
+<p id="podsbb">1800/=</p>
+<p>qty:<b id="podsquantity2" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsb"><h2>add to cart</h2></button>
+</a>
+<a id="podsme3"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsca">Open pods</h2>
+<p id="pods">Special high quality&nbsp;</p>
+<p id="podscd"></p>
+<p id="podscb">10000/=</p>
+<p>qty:<b id="podsquantity3" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsc"><h2>add to cart</h2></button>
+</a>
+<a id="podsme4"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsda">Spacebuds 2</h2>
+<p id="pods">OTW675 extra pitch&nbsp;</p>
+<p id="podsdd"></p>
+<p id="podsdb">3000/=</p>
+<p>qty:<b id="podsquantity4" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsd"><h2>add to cart</h2></button>
+</a>
+<a id="podsme5"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsea">A66 huntop</h2>
+<p id="pods">Mono extra music&nbsp;</p>
+<p id="podsed"></p>
+<p id="podseb">400/=</p>
+<p>qty:<b id="podsquantity5" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podse"><h2>add to cart</h2></button>
+</a>
+<a id="podsme6"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsfa">Floating ark hyme</h2>
+<p id="pods">Tws stereo&nbsp;</p>
+<p id="podsfd"></p>
+<p id="podsfb">1600/=</p>
+<p>qty:<b id="podsquantity6" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsf"><h2>add to cart</h2></button>
+</a>
+<a id="podsme7"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsga">Floating ark&nbsp;<div>&nbsp;necklace&nbsp;</div></h2>
+<p id="pods">15hrs long playtime&nbsp;</p>
+<p id="podsgd"></p>
+<p id="podsgb">1500/=</p>
+<p>qty:<b id="podsquantity7" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsg"><h2>add to cart</h2></button>
+</a>
+<a id="podsme8"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsha">Excellent headphones&nbsp;</h2>
+<p id="pods">30hrs playtime<br>extra bass</p>
+<p id="podshd"></p>
+<p id="podshb">2800/=</p> 
+<p>qty:<b id="podsquantity8" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsh"><h2>add to cart</h2></button>
+</a>
+<a id="podsme9"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsia">BudsAir pro</h2>
+<p id="pods">High quality sound&nbsp;</p>
+<p id="podsid"></p>
+<p id="podsib">1200/=</p> 
+<p>qty:<b id="podsquantity9" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsi"><h2>add to cart</h2></button>
+</a>
+<a id="podsme10"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsja">Tws colored</h2>
+<p id="pods">Normal quality&nbsp;</p>
+<p id="podsjd"></p>
+<p id="podsjb">500/=</p>
+<p>qty:<b id="podsquantity10" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsj"><h2>add to cart</h2></button>
+</a>
+ <a id="podsme11"><img style="height: 200px; width:100%;" src="">
+<h2 id="podska">Samsung B+</h2>
+<p id="pods">Mono audio&nbsp;</p>
+<p id="podskd"></p>
+<p id="podskb">250/=</p>
+<p>qty:<b id="podsquantity11" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsk"><h2>add to cart</h2></button>
+</a>
+<a id="podsme12"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsla">Oraimo air f9 pro</h2>
+<p id="pods">Extra sound&nbsp;</p>
+<p id="podsld"></p>
+<p id="podslb">800/=</p>
+<p>qty:<b id="podsquantity12" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsl"><h2>add to cart</h2></button>
+</a>
+<a id="podsme13"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsma">P47</h2>
+<p id="pods">Normal quality<br>headset</p>
+<p id="podsmd"></p>
+<p id="podsmb">500/=</p> 
+<p>qty:<b id="podsquantity13" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsm"><h2>add to cart</h2></button>
+</a>
+<a id="podsme14"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsna">i12 tws</h2>
+<p id="pods">Extra sound&nbsp;</p>
+<p id="podsnd"></p>
+<p id="podsnb">450/=</p>
+<p>qty:<b id="podsquantity14" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsn"><h2>add to cart</h2></button>
+</a>
+<a id="podsme15"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsoa">M10</h2>
+<p id="pods">Big display<br>Extra sound</p>
+<p id="podsod"></p>
+<p id="podsob">600/=</p>
+<p>qty:<b id="podsquantity15" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podso"><h2>add to cart</h2></button>
+</a>
+<a id="podsme16"><img style="height: 200px; width:100%;" src="">
+<h2 id="podspa">Ettelor pods</h2>
+<p id="pods">High noise<br>&nbsp;cancelling</p>
+<p id="podspd"></p>
+<p id="podspb">1000/=</p>
+<p>qty:<b id="podsquantity16" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsp"><h2>add to cart</h2></button>
+</a>
+<a id="podsme17"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsqa">Pro 5s</h2>
+<p id="pods">Good quality<br>Sound</p>
+<p id="podsqd"></p>
+<p id="podsqb">800/=</p>
+<p>qty:<b id="podsquantity17" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsq"><h2>add to cart</h2></button>
+</a>
+<a id="podsme18"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsra">Ulta pods max</h2>
+<p id="pods">Quality sound&nbsp;</p>
+<p id="podsrd"></p>
+<p id="podsrb">900/=</p>
+<p>qty:<b id="podsquantity18" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsr"><h2>add to cart</h2></button>
+</a>
+<a id="podsme19"><img style="height: 200px; width:100%;" src="">
+<h2 id="podssa">Samsung air12pro</h2>
+<p id="pods">Extra bass stereo&nbsp;</p>
+<p id="podssd"></p>
+<p id="podssb">1000/=</p>
+<p>qty:<b id="podsquantity19" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podss"><h2>add to cart</h2></button>
+</a>
+<a id="podsme20"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsta">UBL t280</h2>
+<p id="pods">Good sound&nbsp;</p>
+<p id="podstd"></p>
+<p id="podstb">800/=</p> 
+<p>qty:<b id="podsquantity20" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podst"><h2>add to cart</h2></button>
+</a>
+<a id="podsme21"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsua">JBL tws4</h2>
+<p id="pods">Normal quality<br>&nbsp;sound</p>
+<p id="podsud"></p>
+<p id="podsub">750/=</p>
+<p>qty:<b id="podsquantity21" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsu"><h2>add to cart</h2></button>
+</a>
+<a id="podsme22"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsva">Aldeepo ADTw670</h2>
+<p id="pods">High quality stereo&nbsp;</p>
+<p id="podsvd"></p>
+<p id="podsvb">650/=</p>
+<p>qty:<b id="podsquantity22" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsv"><h2>add to cart</h2></button>
+</a>
+<a id="podsme23"><img style="height: 200px; width:100%;" src="">
+<h2 id="podswa">Aldeepo black</h2>
+<p id="pods">Best quality stereo&nbsp;</p>
+<p id="podswd"></p>
+<p id="podswb">1100/=</p>
+<p>qty:<b id="podsquantity23" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsw"><h2>add to cart</h2></button>
+</a>
+<a id="podsme24"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsxa">JBL headset&nbsp;</h2>
+<p id="pods">Good quality&nbsp;</p>
+<p id="podsxd"></p>
+<p id="podsxb">800/=</p> 
+<p>qty:<b id="podsquantity24" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsx"><h2>add to cart</h2></button>
+</a>
+<a id="podsme25"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsya">Oraimo headset&nbsp;</h2>
+<p id="pods">Good quality&nbsp;</p>
+<p id="podsyd"></p>
+<p id="podsyb">800/=</p>
+<p>qty:<b id="podsquantity25" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsy"><h2>add to cart</h2></button>
+</a>
+<a id="podsme26"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsza">450bt headset&nbsp;</h2>
+<p id="pods">Extra bass</p>
+<p id="podszd"></p>
+<p id="podszb">750/=</p>
+<p>qty:<b id="podsquantity26" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsz"><h2>add to cart</h2></button>
+</a>
+<a id="podsme27"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsae">Super se o23</h2>
+<p id="pods">Extra sound</p>
+<p id="podsah"></p>
+<p id="podsaf">800/=</p>
+<p>qty:<b id="podsquantity27" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsa1"><h2>add to cart</h2></button>
+</a>
+<a id="podsme28"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsbe">U&amp;I neckband</h2>
+<p id="pods">Good quality sound&nbsp;</p>
+<p id="podsbh"></p>
+<p id="podsbf">750/=</p>
+<p>qty:<b id="podsquantity28" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsb1"><h2>add to cart</h2></button>
+</a>
+<a id="podsme29"><img style="height: 200px; width:100%;" src="">
+<h2 id="podsce">Oraimo neckband&nbsp;</h2>
+<p id="pods">High quality stereo&nbsp;</p>
+<p id="podsch"></p>
+<p id="podscf">1600/=</p>
+<p>qty:<b id="podsquantity29" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="podsc1"><h2>add to cart</h2></button>
+</a>
+</div>
+<h1 style="text-align:center;">earphones</h1>
+<div class="scrollmenu">
+<a id="earphonesme1"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesaa">Oraimo Jack</h2>
+<p id="earphones">Aux with microphone</p>
+<p id="earphonesad"></p>
+<p id="earphonesab">300/=</p>
+<p>qty:<b id="earphonesquantity1" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesa" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme2"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesba">Oraimo type C</h2>
+<p id="earphones">Otg earphones</p>
+<p id="earphonesbd"></p>
+<p id="earphonesbb">600/=</p>
+<p>qty:<b id="earphonesquantity2" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesb" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme3"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesca">Oraimo Jack (boxed)</h2>
+<p id="earphones">High quality<br>earphones</p>
+<p id="earphonescd"></p>
+<p id="earphonescb">500/=</p>
+<p>qty:<b id="earphonesquantity3" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesc" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme4"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesda">I7 universal</h2>
+<p id="earphones">Aux extra music</p>
+<p id="earphonesdd"></p>
+<p id="earphonesdb">200/=</p>
+<p>qty:<b id="earphonesquantity4" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesd" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme5"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesea">Inspiro</h2>
+<p id="earphones">Aux extra bass</p>
+<p id="earphonesed"></p>
+<p id="earphoneseb">200/=</p>
+<p>qty:<b id="earphonesquantity5" class="solid">1</b></p>
+<button onclick="hover()" id="earphonese" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme6"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesfa">Ofia</h2>
+<p id="earphones">Aux extra music</p>
+<p id="earphonesfd"></p>
+<p id="earphonesfb">200/=</p>
+<p>qty:<b id="earphonesquantity6" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesf" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme7"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesga">Jamaa starlife</h2>
+<p id="earphones">Aux extra bass</p>
+<p id="earphonesgd"></p>
+<p id="earphonesgb">200/=</p>
+<p>qty:<b id="earphonesquantity7" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesg" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme8"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesha">Ofia</h2>
+<p id="earphones">Aux extra bass</p>
+<p id="earphoneshd"></p>
+<p id="earphoneshb">250/=</p> 
+<p>qty:<b id="earphonesquantity8" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesh" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme9"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesia">Amaya jack</h2>
+<p id="earphones">Aux high quality</p>
+<p id="earphonesid"></p>
+<p id="earphonesib">250/=</p> 
+<p>qty:<b id="earphonesquantity9" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesi" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme10"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesja">Tecno stereo</h2>
+<p id="earphones">Aux extra sound</p>
+<p id="earphonesjd"></p>
+<p id="earphonesjb">200/=</p>
+<p>qty:<b id="earphonesquantity10" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesj" ><h2>add to cart</h2></button>
+</a>
+ <a id="earphonesme11"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphoneska">Samsung h533c</h2>
+<p id="earphones">Aux extra sound</p>
+<p id="earphoneskd"></p>
+<p id="earphoneskb">250/=</p>
+<p>qty:<b id="earphonesquantity11" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesk" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme12"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesla">Oppo</h2>
+<p id="earphones">Aux super bass</p>
+<p id="earphonesld"></p>
+<p id="earphoneslb">250/=</p>
+<p>qty:<b id="earphonesquantity12" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesl" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme13"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesma">Oraimo stereo</h2>
+<p id="earphones">Aux extra music</p>
+<p id="earphonesmd"></p>
+<p id="earphonesmb">200/=</p> 
+<p>qty:<b id="earphonesquantity13" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesm" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme14"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesna">iPhone to jack</h2>
+<p id="earphones">Aux converter</p>
+<p id="earphonesnd"></p>
+<p id="earphonesnb">300/=</p>
+<p>qty:<b id="earphonesquantity14" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesn" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme15"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesoa">Ofia</h2>
+<p id="earphones">Aux extra music</p>
+<p id="earphonesod"></p>
+<p id="earphonesob">150/=</p>
+<p>qty:<b id="earphonesquantity15" class="solid">1</b></p>
+<button onclick="hover()" id="earphoneso" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme16"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonespa">Dr lee</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphonespd"></p>
+<p id="earphonespb">150/=</p>
+<p>qty:<b id="earphonesquantity16" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesp" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme17"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesqa">R&amp;X</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphonesqd"></p>
+<p id="earphonesqb">100/=</p>
+<p>qty:<b id="earphonesquantity17" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesq" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme18"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesra">Oraimo[economy]</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphonesrd"></p>
+<p id="earphonesrb">150/=</p>
+<p>qty:<b id="earphonesquantity18" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesr" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme19"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonessa">Sony</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphonessd"></p>
+<p id="earphonessb">150/=</p>
+<p>qty:<b id="earphonesquantity19" class="solid">1</b></p>
+<button onclick="hover()" id="earphoness" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme20"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesta">U&amp;I</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphonestd"></p>
+<p id="earphonestb">150/=</p> 
+<p>qty:<b id="earphonesquantity20" class="solid">1</b></p>
+<button onclick="hover()" id="earphonest" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme21"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesua">Itel[economy]</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphonesud"></p>
+<p id="earphonesub">150/=</p>
+<p>qty:<b id="earphonesquantity21" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesu" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme22"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesva">Realme</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphonesvd"></p>
+<p id="earphonesvb">150/=</p>
+<p>qty:<b id="earphonesquantity22" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesv" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme23"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphoneswa">JBL[economy]</h2>
+<p id="earphones">Stereo earphones</p>
+<p id="earphoneswd"></p>
+<p id="earphoneswb">150/=</p>
+<p>qty:<b id="earphonesquantity23" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesw" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme24"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesxa">Floating ark</h2>
+<p id="earphones">High quality aux</p>
+<p id="earphonesxd"></p>
+<p id="earphonesxb">250/=</p> 
+<p>qty:<b id="earphonesquantity24" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesx" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme25"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesya">Floating ark</h2>
+<p id="earphones">Hyme super bass</p>
+<p id="earphonesyd"></p>
+<p id="earphonesyb">450/=</p>
+<p>qty:<b id="earphonesquantity25" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesy" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme26"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesza">U top aux</h2>
+<p id="earphones">extra bass</p>
+<p id="earphoneszd"></p>
+<p id="earphoneszb">200/=</p>
+<p>qty:<b id="earphonesquantity26" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesz" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme27"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesae">Itel[original]</h2>
+<p id="earphones">Aux extra sound</p>
+<p id="earphonesah"></p>
+<p id="earphonesaf">250/=</p>
+<p>qty:<b id="earphonesquantity27" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesa1" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme28"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesbe">Samsung akg</h2>
+<p id="earphones">Aux extra music</p>
+<p id="earphonesbh"></p>
+<p id="earphonesbf">600/=</p>
+<p>qty:<b id="earphonesquantity28" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesb1" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme29"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesce">Samsung akg</h2>
+<p id="earphones">Otg type C</p>
+<p id="earphonesch"></p>
+<p id="earphonescf">650/=</p>
+<p>qty:<b id="earphonesquantity29" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesc1" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme30"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesde">Em16</h2>
+<p id="earphones">Aux extra music</p>
+<p id="earphonesdh"></p>
+<p id="earphonesdf">200/=</p> 
+<p>qty:<b id="earphonesquantity30" class="solid">1</b></p>
+<button onclick="hover()" id="earphonesd1" ><h2>add to cart</h2></button>
+</a>
+<a id="earphonesme31"><img style="height: 200px; width:100%;" src="">
+<h2 id="earphonesee">iPhone</h2>
+<p id="earphones">Otg lightning</p>
+<p id="earphoneseh"></p>
+<p id="earphonesef">600/=</p>
+<p>qty:<b id="earphonesquantity31" class="solid">1</b></p>
+<button onclick="hover()" id="earphonese1" ><h2>add to cart</h2></button>
+</a>
+</div>
+<h1 style="text-align:center;">covers & protectors</h1>
+<div class="scrollmenu">
+<a id="coverme1"><img style="height: 200px; width:100%;" src="">
+<h2 id="coveraa">OG glass</h2>
+<p id="cover">High quality</p>
+<p id="coverad"></p>
+<p id="coverab">250/=</p>
+<p>qty:<b id="coverquantity1" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="covera"><h2>add to cart</h2></button>
+</a>
+<a id="coverme2"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverba">Super k glass</h2>
+<p id="cover">Standard quality</p>
+<p id="coverbd"></p>
+<p id="coverbb">200/=</p>
+<p>qty:<b id="coverquantity2" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverb"><h2>add to cart</h2></button>
+</a>
+<a id="coverme3"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverca">3d&amp;21d glass</h2>
+<p id="cover">Normal quality</p>
+<p id="covercd"></p>
+<p id="covercb">150/=</p>
+<p>qty:<b id="coverquantity3" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverc"><h2>add to cart</h2></button>
+</a>
+<a id="coverme4"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverda">Tempered glass</h2>
+<p id="cover">Low quality</p>
+<p id="coverdd"></p>
+<p id="coverdb">100/=</p>
+<p>qty:<b id="coverquantity4" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverd"><h2>add to cart</h2></button>
+</a>
+<a id="coverme5"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverea">Mirror glass</h2>
+<p id="cover">Standard quality</p>
+<p id="covered"></p>
+<p id="covereb">250/=</p>
+<p>qty:<b id="coverquantity5" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="covere"><h2>add to cart</h2></button>
+</a>
+<a id="coverme6"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverfa">Privacy glass</h2>
+<p id="cover">Standard quality</p>
+<p id="coverfd"></p>
+<p id="coverfb">250/=</p>
+<p>qty:<b id="coverquantity6" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverf"><h2>add to cart</h2></button>
+</a>
+<a id="coverme7"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverga">Privacy glass</h2>
+<p id="cover">iPhone</p>
+<p id="covergd"></p>
+<p id="covergb">500/=</p>
+<p>qty:<b id="coverquantity7" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverg"><h2>add to cart</h2></button>
+</a>
+<a id="coverme8"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverha">UV glass</h2>
+<p id="cover">High quality</p>
+<p id="coverhd"></p>
+<p id="coverhb">1500/=</p> 
+<p>qty:<b id="coverquantity8" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverh"><h2>add to cart</h2></button>
+</a>
+<a id="coverme9"><img style="height: 200px; width:100%;" src="">
+<h2 id="coveria">Simple cover</h2>
+<p id="cover">Light gauge</p>
+<p id="coverid"></p>
+<p id="coverib">200/=</p> 
+<p>qty:<b id="coverquantity9" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coveri"><h2>add to cart</h2></button>
+</a>
+<a id="coverme10"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverja">Soft cover</h2>
+<p id="cover">Medium gauge</p>
+<p id="coverjd"></p>
+<p id="coverjb">250/=</p>
+<p>qty:<b id="coverquantity10" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverj"><h2>add to cart</h2></button>
+</a>
+ <a id="coverme11"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverka">Hard cover</h2>
+<p id="cover">Standard gauge</p>
+<p id="coverkd"></p>
+<p id="coverkb">300/=</p>
+<p>qty:<b id="coverquantity11" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverk"><h2>add to cart</h2></button>
+</a>
+<a id="coverme12"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverla">Fancy cover</h2>
+<p id="cover">Decorated</p>
+<p id="coverld"></p>
+<p id="coverlb">350/=</p>
+<p>qty:<b id="coverquantity12" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverl"><h2>add to cart</h2></button>
+</a>
+<a id="coverme13"><img style="height: 200px; width:100%;" src="">
+<h2 id="coverma">Silicon cover</h2>
+<p id="cover">High quality</p>
+<p id="covermd"></p>
+<p id="covermb">500/=</p> 
+<p>qty:<b id="coverquantity13" class="solid">1&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="coverm"><h2>add to cart</h2></button>
+</a>
+</div>
+<h1 style="text-align:center;">smartwatch</h1>
+<div class="scrollmenu">
+<a id="watchme1"><img style="height: 200px; width:100%;" src="">
+<h2 id="watchaa">Aldeepo</h2>
+<p id="watch">Standard watch</p>
+<p id="watchad"></p>
+<p id="watchab">1500/=</p>
+<p>qty:<b id="watchquantity1" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="watcha"><h2>add to cart</h2></button>
+</a>
+<a id="watchme2"><img style="height: 200px; width:100%;" src="">
+<h2 id="watchba">Osw042 oraimo</h2>
+<p id="watch">Round watch</p>
+<p id="watchbd"></p>
+<p id="watchbb">4700/=</p>
+<p>qty:<b id="watchquantity2" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="watchb"><h2>add to cart</h2></button>
+</a>
+<a id="watchme3"><img style="height: 200px; width:100%;" src="">
+<h2 id="watchca">Osw805 oraimo&nbsp;</h2>
+<p id="watch">Smartwatch 5</p>
+<p id="watchcd"></p>
+<p id="watchcb">3200/=</p>
+<p>qty:<b id="watchquantity3" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="watchc"><h2>add to cart</h2></button>
+</a>
+<a id="watchme4"><img style="height: 200px; width:100%;" src="">
+<h2 id="watchda">Itel sones</h2>
+<p id="watch">Standard watch</p>
+<p id="watchdd"></p>
+<p id="watchdb">1800/=</p>
+<p>qty:<b id="watchquantity4" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="watchd"><h2>add to cart</h2></button>
+</a>
+<a id="watchme5"><img style="height: 200px; width:100%;" src="">
+<h2 id="watchea">Itel</h2>
+<p id="watch">High quality&nbsp;</p>
+<p id="watched"></p>
+<p id="watcheb">2000/=</p>
+<p>qty:<b id="watchquantity5" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="watche"><h2>add to cart</h2></button>
+</a>
+<a id="watchme6"><img style="height: 200px; width:100%;" src="">
+<h2 id="watchfa">Amaya</h2>
+<p id="watch">Glamour</p>
+<p id="watchfd"></p>
+<p id="watchfb">4000/=</p>
+<p>qty:<b id="watchquantity6" class="solid">1&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+<button onclick="hover()" id="watchf"><h2>add to cart</h2></button>
+</a>
+</div>
+<h1 style="text-align:center;">mems & flash</h1>
+
+<h1 style="text-align:center;">powerbanks</h1>
+
+<h1 style="text-align:center;">batteries</h1>
+
+<div style="height:auto; background-color: #110f0f;"><br>   <h1 style="color: #62b6b6; text-align: center;">ACCESSMATT</h1>   <a style="color:#ffffff;" href="tel:0116575820"><li><b>Tell:</b>0116575820 </li></a>   <hr >    <a style="color:#ffffff;" href="tel:0116526921"><li><b>Tell:</b>0116526921</li></a>    <hr/>       <a style="color:#ffffff;" href="mailto:accessmatte@gmail.com"><li><b>email:</b>accessmatte@gmail.com</li></a>       <hr/>     <li onclick="sitemap()" style="color:#ffffff;">Nanyuki,kenya</li>     <br>     &nbsp;<i onclick="wa()" style="font-size:50px; background-color:#2be784; text-align:center;width:50px;color:white;" class="fa">&#xf232;</i>&nbsp;<i onclick="fb()" style="text-align:center;font-size:50px; width:50px;background-color:#468de7; color:white;" class="fa">&#xf09a;</i>&nbsp;<i onclick="yt()"style="font-size:50px; text-align:center;width:50px;background-color:white; color:red;" class="fa">&#xf16a;</i> &nbsp;<i onclick="inst()" style="font-size:50px; text-align:center;background-color:white; width:50px;color:#f8296c65;" class="fa">&#xf16d;</i> <br>  <h1 style="color: #f7ec94;">INFOMATION</h1>  <a onclick="account()" style="color:#ffffff;"><b>My account</b></a>  <hr/>   <a onclick="policy()" style="color:#ffffff;"><b>privancy policy</b></a><hr/>  <a onclick="terms()" style="color:#ffffff;"><b>Terms & Conditions</b></a><hr/>   <a onclick="returns()" style="color:#ffffff;"><b>Return policy</b></a><hr/>    <a onclick="contact()" style="color:#ffffff;"><b>Contact Us</b></a> </div>
+<div style="height:auto; background-color: #000000; color:#ffffff;">Copyright 2024 © ACCESMAT Nanyuki,Kenya<br> All Rights Reserved.</div>
+<script>
+function openNav() {
+  document.getElementById("myNav").style.width = "50%";
+}
+
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
+}
+
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+
+</script>
+</body>
+</html> 
